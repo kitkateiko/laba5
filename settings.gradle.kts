@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "laba5"
+rootProject.name = "CriminalIntent"
 include(":app")
- 
